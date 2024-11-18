@@ -6,8 +6,8 @@ from scripts.helpers import clean_job_postings
 import time
 import random
 
-SLEEP_TIME = 60
-MAX_UPDATES = 25
+SLEEP_TIME = 31
+MAX_UPDATES = 16
 
 conn = sqlite3.connect('linkedin_jobs.db')
 cursor = conn.cursor()

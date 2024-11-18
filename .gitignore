@@ -8,3 +8,5 @@
 # E.g. linkedin_jobs.db.bak, linkedin_jobs_uk.db
 /linkedin_jobs_*.db
 /linkedin_jobs.db.*
+# venv
+/linkedin/
